@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+
 //ignore_for_file: avoid_print
 class kucing{
   kucing(this.nama);
